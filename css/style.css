@@ -383,18 +383,21 @@ h2{
  height: 70px;
  background: rgba(47, 48, 58, 0.8);
  padding: 27px 0 27px 0;
- text-transform: uppercase;
- font-family: Roboto;
-font-size: 14px;
-font-style: normal;
-font-weight: 700;
-line-height: 16px;
-letter-spacing: 0.03em;
 text-align: center;
 color: #fff;
 position: absolute;
 bottom: 0px;
 transform: translateY() ;
+}
+
+.presentation-description-text{
+text-transform: uppercase;
+ font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 700;
+line-height: 16.41px;
+letter-spacing: 0.03em;
 }
 
 .container .our-team{
